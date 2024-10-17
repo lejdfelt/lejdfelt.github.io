@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Lejdfel",
+    "description": "",
+    "home_page_url": "https://lejdfelt.github.io",
+    "feed_url": "https://lejdfelt.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Linus Lejdfelt"
+    },
+    "items": [
+        {
+            "id": "https://lejdfelt.github.io/test-landing-page.html",
+            "url": "https://lejdfelt.github.io/test-landing-page.html",
+            "title": "Test landing page",
+            "summary": "this seems like a good editor window",
+            "content_html": "<p>this seems like a good editor window</p>",
+            "author": {
+                "name": "Linus Lejdfelt"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-17T15:31:21+02:00",
+            "date_modified": "2024-10-17T15:31:21+02:00"
+        }
+    ]
+}

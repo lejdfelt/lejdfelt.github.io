@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Lejdfel</title>
+    <link href="https://lejdfelt.github.io/feed.xml" rel="self" />
+    <link href="https://lejdfelt.github.io" />
+    <updated>2024-10-17T15:31:21+02:00</updated>
+    <author>
+        <name>Linus Lejdfelt</name>
+    </author>
+    <id>https://lejdfelt.github.io</id>
+
+    <entry>
+        <title>Test landing page</title>
+        <author>
+            <name>Linus Lejdfelt</name>
+        </author>
+        <link href="https://lejdfelt.github.io/test-landing-page.html"/>
+        <id>https://lejdfelt.github.io/test-landing-page.html</id>
+
+        <updated>2024-10-17T15:31:21+02:00</updated>
+            <summary>
+                <![CDATA[
+                    this seems like a good editor window
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>this seems like a good editor window</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
