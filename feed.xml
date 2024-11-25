@@ -3,7 +3,7 @@
     <title>Lejdfel</title>
     <link href="https://lejdfelt.github.io/feed.xml" rel="self" />
     <link href="https://lejdfelt.github.io" />
-    <updated>2024-11-26T00:16:05+01:00</updated>
+    <updated>2024-11-26T00:17:15+01:00</updated>
     <author>
         <name>Linus Lejdfelt</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://lejdfelt.github.io/bullerfoeroreningar.html"/>
         <id>https://lejdfelt.github.io/bullerfoeroreningar.html</id>
         <media:content url="https://lejdfelt.github.io/media/posts/6/iStock-1421001532-696x464-removebg-preview2.png" medium="image" />
+            <category term="Blogg"/>
 
         <updated>2024-11-25T23:55:26+01:00</updated>
             <summary>
