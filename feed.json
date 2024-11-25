@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://lejdfelt.github.io/cv.html",
+            "url": "https://lejdfelt.github.io/cv.html",
+            "title": "CV",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lejdfelt.github.io/media/posts/4/swedish.jpg\" alt=\"\" width=\"2482\" height=\"3512\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://lejdfelt.github.io/media/posts/4/responsive/swedish-xs.jpg 640w ,https://lejdfelt.github.io/media/posts/4/responsive/swedish-sm.jpg 768w ,https://lejdfelt.github.io/media/posts/4/responsive/swedish-md.jpg 1024w ,https://lejdfelt.github.io/media/posts/4/responsive/swedish-lg.jpg 1366w ,https://lejdfelt.github.io/media/posts/4/responsive/swedish-xl.jpg 1600w ,https://lejdfelt.github.io/media/posts/4/responsive/swedish-2xl.jpg 1920w\"></figure>",
+            "author": {
+                "name": "Linus Lejdfelt"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-19T15:20:44+02:00",
+            "date_modified": "2024-11-25T20:36:20+01:00"
+        },
+        {
             "id": "https://lejdfelt.github.io/det-var-baetter-foerr.html",
             "url": "https://lejdfelt.github.io/det-var-baetter-foerr.html",
             "title": "Det var bätter förr",
