@@ -3,12 +3,35 @@
     <title>Lejdfel</title>
     <link href="https://lejdfelt.github.io/feed.xml" rel="self" />
     <link href="https://lejdfelt.github.io" />
-    <updated>2025-01-11T09:58:13+01:00</updated>
+    <updated>2025-01-12T19:34:40+01:00</updated>
     <author>
         <name>Linus Lejdfelt</name>
     </author>
     <id>https://lejdfelt.github.io</id>
 
+    <entry>
+        <title>Om Bloggen</title>
+        <author>
+            <name>Linus Lejdfelt</name>
+        </author>
+        <link href="https://lejdfelt.github.io/om-bloggen/index.html"/>
+        <id>https://lejdfelt.github.io/om-bloggen/index.html</id>
+
+        <updated>2025-01-12T19:34:40+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Denna blogg startade som ett projekt inom web hosting och cybersäkerhet. När jag studerade till civilingenjör i samhällsbyggnad på Chalmers tekniska högskola med inriktning mot&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Denna blogg startade som ett projekt inom web hosting och cybersäkerhet. När jag studerade till civilingenjör i samhällsbyggnad på Chalmers tekniska högskola med inriktning mot miljö, började jag lära mig programmering och cybersäkerhet vid sidan av mina studier.</p>
+<p>Jag fann frågan kring äganderätten till det material du publicerar online fascinerande och kom på en idé under en föreläsning, om hur länkning av inlägg från en personlig blogg till sociala medier förhindrade företagen från att hävda äganderätt över bilder och texter som du delar med familj och vänner.</p>
+<p>Jag började gräva i det gamla blogginnehållet och insåg hur de största sociala medieföretagen hade helt urholkat den personliga blogkindustrin. Väldigt få av de gamla klassikerna existerade längre så som jag kom ihåg dem från 2010. Många av alternativen var nu betaltjänster eller så komplicerade och instabila att de var näst intill ofunktionella under 2024.</p>
+<p>Med denna blogg vill jag jobba mot personlig utveckling både privat och professionellt, samtidigt som jag lär mig det tekniska kring drift och underhåll av en egen hemsida, men även det tekniska och kvalitativa arbetet att skriva och forska för artiklar inom ämnen jag finner fascinerande.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tankar kring Toppavlastning av elektricitet med Flywheels</title>
         <author>
