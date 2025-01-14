@@ -3,7 +3,7 @@
     <title>Lejdfel</title>
     <link href="https://lejdfelt.github.io/feed.xml" rel="self" />
     <link href="https://lejdfelt.github.io" />
-    <updated>2025-01-14T15:14:01+01:00</updated>
+    <updated>2025-01-14T15:19:30+01:00</updated>
     <author>
         <name>Linus Lejdfelt</name>
     </author>
@@ -40,6 +40,7 @@
         <link href="https://lejdfelt.github.io/agroekologi-och-vattenanvaendning-en-hallbar-vaeg-foer-jordbruket/"/>
         <id>https://lejdfelt.github.io/agroekologi-och-vattenanvaendning-en-hallbar-vaeg-foer-jordbruket/</id>
         <media:content url="https://lejdfelt.github.io/media/posts/9/19.gross_green_energy.jpg" medium="image" />
+            <category term="Blogg"/>
 
         <updated>2025-01-12T14:02:16+01:00</updated>
             <summary>
