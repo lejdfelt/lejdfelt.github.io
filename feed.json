@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://lejdfelt.github.io/the-forgotten-fridge-item/",
+            "url": "https://lejdfelt.github.io/the-forgotten-fridge-item/",
+            "title": "The Forgotten Fridge Item",
+            "summary": "We've all been there—standing in front of our fridge, discovering that once-vibrant spinach has turned into a soggy mess, or that half-eaten jar of pickled&hellip;",
+            "content_html": "<p>We've all been there—standing in front of our fridge, discovering that once-vibrant spinach has turned into a soggy mess, or that half-eaten jar of pickled herring from last year's midsummer party has been pushed to the back, long forgotten. These are the silent casualties of our busy lives and good intentions, resulting in millions of tons of precious resources needlessly condemned to humanity's growing mountain of trash. But what if we paused to consider the real cost of this everyday habit?</p>\n<p><span style=\"text-decoration: underline;\"><strong>The Scope of the Problem</strong></span></p>\n<p>Globally, approximately one-third of all food produced goes to waste, even as an estimated 2.3 billion people—or 29.3% of the global population—experienced moderate or severe food insecurity in 2021. While much focus is placed on food waste in restaurants and supermarkets, the forgotten items languishing in our fridges also contribute significantly to the problem. Consider this: every discarded container of yogurt or wilted bag of salad represents not only wasted food but also squandered water, energy, and resources used in its production, transportation, and packaging. Shockingly, food waste is responsible for 8–10% of global greenhouse gas emissions.</p>\n<p><span style=\"text-decoration: underline;\"><strong>The Impact of Change</strong></span></p>\n<p>Reducing food waste in our homes—starting with the forgotten fridge—has enormous potential to reshape society. Here's how:</p>\n<ol>\n<li>Economic Benefits: Wasting food is like tossing money in the trash. Cutting back on food waste could save households hundreds of dollars a year, money that could be reinvested into communities or spent on things that truly matter.</li>\n<li>Environmental Gains: If less food is wasted, fewer emissions from rotting waste and transportation will be released into the atmosphere. In turn, this would contribute to combating climate change.</li>\n<li>Social Good: Wasted food is a missed opportunity to help those in need. Redirecting edible, unused food to those who face food insecurity could make a tangible difference in reducing hunger.</li>\n</ol>\n<p><span style=\"text-decoration: underline;\"><strong>What Can We Do?</strong></span></p>\n<p>It’s easier than you think to tackle the issue of forgotten fridge items:</p>\n<ul>\n<li>Plan meals and shop intentionally to avoid over-purchasing.</li>\n<li>Store food correctly to extend its shelf life.</li>\n<li>Embrace \"ugly\" produce or leftovers—it doesn’t have to look perfect to taste good.</li>\n<li>Get creative with cooking! That slightly wilted spinach? Perfect for a smoothie.</li>\n</ul>\n<p><span style=\"text-decoration: underline;\"><strong>Beyond the Fridge</strong></span></p>\n<p>The effort to reduce food waste starts at home, but its ripple effects are vast. By being mindful of our consumption, we not only ease the strain on our wallets but also contribute to a healthier planet and a fairer society. It’s a small act with big implications—one that anyone can take part in.</p>\n<p>So, next time you reach into the fridge, pause for a moment. Let’s give that forgotten food a second chance and, in doing so, build a more sustainable future.</p>",
+            "image": "https://lejdfelt.github.io/media/posts/11/0242f257-3ac6-45ec-9c63-cbac25baaa5f.png",
+            "author": {
+                "name": "Linus Lejdfelt"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-25T09:03:48+01:00",
+            "date_modified": "2025-03-25T09:03:48+01:00"
+        },
+        {
             "id": "https://lejdfelt.github.io/om-bloggen/",
             "url": "https://lejdfelt.github.io/om-bloggen/",
             "title": "Om Bloggen",
