@@ -3,7 +3,7 @@
     <title>Lejdfel</title>
     <link href="https://lejdfelt.github.io/feed.xml" rel="self" />
     <link href="https://lejdfelt.github.io" />
-    <updated>2025-03-28T11:51:44+01:00</updated>
+    <updated>2025-03-29T08:42:28+01:00</updated>
     <author>
         <name>Linus Lejdfelt</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://lejdfelt.github.io/the-forgotten-fridge-item/"/>
         <id>https://lejdfelt.github.io/the-forgotten-fridge-item/</id>
         <media:content url="https://lejdfelt.github.io/media/posts/11/0242f257-3ac6-45ec-9c63-cbac25baaa5f.png" medium="image" />
+            <category term="Blogg"/>
 
         <updated>2025-03-25T09:03:48+01:00</updated>
             <summary>
@@ -260,15 +261,14 @@
         <updated>2024-11-25T22:06:16+01:00</updated>
             <summary>
                 <![CDATA[
-                    I would describe myself as a curious climate enthusiast with a bachelor's degree in civil engineering and a master's degree in industrial ecology from Chalmers&hellip;
+                    Linus Leidfelt WORKING EXPERIENCE WSP Water consultant Gothenburg 2023 - Present Ramboll Storm water investigator Gothenburg Oct 2022 - Jan 2023 Vattenfall energy Service Agent&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I would describe myself as a curious climate enthusiast with a bachelor's degree in civil engineering and a master's degree in industrial ecology from Chalmers University of Technology. Experienced in working with stormwater issues and water infrastructure design with both GIS and Civil 3D since 2022.<br>Before water, I was treasurer for several non-profit organizations while studying environmental engineering. I have a proven track record in accounting and project management, and extensive studies in environmental planning and risk management in the infrastructure industry.</p>
-<p class="align-center"><strong>Linus Leidfelt</strong></p>
-<p>Gothenburg | +46 738 556 818 | Linus.Lejdfelt@proton.me | Linkedin.com/in/Linus-Lejdfelt<br><br><span style="text-decoration: underline;"><strong>WORKING EXPERIENCE</strong></span></p>
-<p><strong>WSP Water consultant</strong><br>Gothenburg 2023 - Present</p>
+                <p class="align-center"><strong>Linus Leidfelt</strong></p>
+<p class="align-left"><span style="text-decoration: underline;"><strong>WORKING EXPERIENCE</strong></span></p>
+<p class="align-left"><strong>WSP Water consultant</strong><br>Gothenburg 2023 - Present</p>
 <ul>
 <li>Planning and design of drawings for approx. 5 va assignments</li>
 <li>Design of 6 medium-sized and 4 large va systems in Civil 3D</li>
@@ -323,18 +323,14 @@
         <updated>2024-10-19T15:20:44+02:00</updated>
             <summary>
                 <![CDATA[
-                    Jag skulle beskriva mig själv som en nyfiken klimatentusiast med civilingenjör i samhällsbyggnad och masterexamen i industriell ekologi från Chalmers tekniska högskola. Erfaren av arbete&hellip;
+                    Linus Lejdfelt ARBETSLIVSERFARENHET WSP Vatten-konsult Göteborg 2023 - Present Planering och projektering av ritningar för ca 5 va-uppdrag Projektering av 6 medelstora och 4 stora&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <div> </div>
-<div>Jag skulle beskriva mig själv som en nyfiken klimatentusiast med civilingenjör i samhällsbyggnad och masterexamen i industriell ekologi från Chalmers tekniska högskola. Erfaren av arbete med dagvattenfrågor och design av vatteninfrastruktur med både GIS och Civil 3D sedan 2022.<br>Innan vatten var jag kassör för flera ideella organisationer medan jag studerade miljövetenskap. Jag har en påvisad historik inom bokföring och projektledning, med omfattande studier inom miljöplanering och riskhantering inom infrastrukturbranschen.</div>
 <div class="align-center"><strong>Linus Lejdfelt</strong></div>
-<div>Göteborg | +46 738 556 818 | Linus.Lejdfelt@proton.me | Linkedin.com/in/Linus-Lejdfelt</div>
-<div> </div>
 <div><span style="text-decoration: underline;"><strong>ARBETSLIVSERFARENHET</strong></span></div>
-<div> </div>
 <div class="align-left"><strong>WSP Vatten-konsult</strong></div>
 <div class="align-left">Göteborg 2023 - Present</div>
 <ul>
@@ -370,7 +366,6 @@
 </ul>
 <div> </div>
 <div><span style="text-decoration: underline;"><strong>PROJECT EXPERIENCE</strong></span></div>
-<div> </div>
 <div><strong>Wavebreaker AB Göteborg</strong></div>
 <div>Miljökonsult</div>
 <ul>
@@ -387,7 +382,6 @@
 </ul>
 <div> </div>
 <div><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;"><strong>UTBILDNING</strong></span></span></div>
-<div> </div>
 <div><strong>Chalmers tekniska högskola </strong>Göteborg, Graduation Date: Aug 2021</div>
 <div>Civilingenjör inom stadsplanering, energi och miljö </div>
 <div> </div>
