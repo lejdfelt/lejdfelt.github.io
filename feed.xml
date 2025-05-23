@@ -3,7 +3,7 @@
     <title>Lejdfel</title>
     <link href="https://lejdfelt.github.io/feed.xml" rel="self" />
     <link href="https://lejdfelt.github.io" />
-    <updated>2025-05-23T14:01:59+02:00</updated>
+    <updated>2025-05-23T14:03:52+02:00</updated>
     <author>
         <name>Linus Lejdfelt</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://lejdfelt.github.io/hsb-living-lab-groundbreaking-research-for-a-sustainable-water-future/"/>
         <id>https://lejdfelt.github.io/hsb-living-lab-groundbreaking-research-for-a-sustainable-water-future/</id>
         <media:content url="https://lejdfelt.github.io/media/posts/18/HSBLivingLab.png" medium="image" />
+            <category term="Blog"/>
 
         <updated>2025-05-23T14:01:59+02:00</updated>
             <summary>
